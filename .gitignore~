@@ -1,0 +1,5 @@
+*.zip
+/viehcle
+/non-viehcle
+/__pycache__
+
